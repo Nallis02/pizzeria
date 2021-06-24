@@ -101,10 +101,12 @@ footer img {
     height: 80px;
 }
 
-footer li {
+footer a {
+    display: block;
     margin-bottom: 12px;
     list-style: none;
     color: #af9191;
+    text-decoration: none;
 }
 
 
